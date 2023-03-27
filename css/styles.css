@@ -1,0 +1,82 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container {
+    background-color:rgb(206, 241, 242);
+}
+.middle-container {
+    margin-top: 5px;
+}
+.bottom-container, .btn {
+    color: #11999E;
+    font-size: 70%;
+    margin-top: 5px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto ;
+    line-height: 2;
+}
+div.skills div.skill-row {
+    text-align: left;
+}
+
+
+a {
+    color: #11999E;    
+}
+
+h1 {
+    color:  #66BFBF;
+    margin-top: 50px auto 0px auto;
+    font-family: 'Parisienne', cursive;
+    line-height: 2;
+}
+
+h2 {
+    font-weight: normal;
+    font-family: 'Alkatra', cursive;
+    color:  #66BFBF;
+} 
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #11999E;
+
+}
+
+
+
+.bottom-cloud {
+    position: absolute;
+    left: 390px;
+}
+.top-cloud {
+    margin-top: 30px;
+    position: relative;
+    display: inline-block;
+    left : 250px ;
+}
+span.design {
+    color:rgba(61, 171, 208, 0.823);
+}
+
+span.s {
+    font-size: 1.6em;
+}
+
+.pic {
+    width: 25%;
+}
+.propic {
+    width: 25%;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+.mountain {
+    margin-bottom: 50px;
+}
